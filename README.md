@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>testing </title>
 </head>
 <body>
   <img src="image/good.png" width="200px">
